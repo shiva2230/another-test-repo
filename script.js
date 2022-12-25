@@ -1,2 +1,2 @@
 alert("This is a javascript tag")
-document.write("Hope this doesnt cause any conflicts")
+alert("I guess this causes a conflict")
